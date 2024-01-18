@@ -1,0 +1,17 @@
+body {
+    background-color: pink;
+}
+img {
+    /* Temporary fix */
+    width: 50%;
+}
+
+a {
+    font-weight: bolder;
+    font-size: 20px;
+    color: darkolivegreen;
+}
+
+h1 {
+    background-color: hotpink;
+}
