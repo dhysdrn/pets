@@ -1,0 +1,12 @@
+{
+  "name": "dhiyaana/328/pets",
+  "authors": [
+    {
+      "name": "Dhiyaa Nazim",
+      "email": "dhysdrn@gmail.com"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
